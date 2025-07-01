@@ -52,4 +52,6 @@
 
 
 12. **git commit**
+13. **cd ..** (to go back in path)
 
+cjsbvkhbv
